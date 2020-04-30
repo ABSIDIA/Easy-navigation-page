@@ -6,7 +6,7 @@
 <li><strong>Email:&gt;<a href="mailto:zerotide@qq.com">点击进行对话</a>
 <hr />
 <li><strong>近期文章or动态
-<script type='text/javascript' src='https://blog.absidia.top/index.php?key=355e40e5dca972ae82b8559270c81af0&cid=0&rows=6'></script>
+<script type='text/javascript' src='https://blog.absidia.top/index.php?key=77bbe767e098ae5c8eb485cfb222279a&cid=0&rows=6'></script>
 </ul>	
 <p align="center">
   Power by <a href="https://absidia.top/">小蓝莓ABSIDIA</a>
