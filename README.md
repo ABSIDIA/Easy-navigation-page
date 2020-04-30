@@ -10,4 +10,3 @@
   Power by <a href="https://absidia.top/">小蓝莓ABSIDIA</a>
 </p></div>
 </div>
-<script>
